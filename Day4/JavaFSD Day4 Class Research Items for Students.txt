@@ -1,0 +1,18 @@
+Research Tasks for Students:
+
+=============================================================
+
+1. WHY WE HAVE TO CLOSE SCANNER OBJECT using obj.close();
+Ans. Garbagr collectioncan only manage memory, No other system resources.if Java program has plenty of free memory,Garbage collection will not 
+	be triggered automatically.
+ 
+
+2. Why we got error when we wrote obj.nextInt() in product class, 
+
+   which we had to change to:
+
+                  Integer.Parse(obj.nextLine());
+Ans :- No idea
+
+3. Can we create static class?
+Ans - Yes we can create static class. Static is a keyword which we can use with class, Variables and methods
